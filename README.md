@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Excel_2013-2019_logo.svg" width="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50px"/>
 </div>
 
 ---
@@ -35,8 +35,17 @@
 ---
 
 ## 🌎 **Onde me encontrar**
-📌 **LinkedIn:** [www.linkedin.com/in/renan-manhães](https://www.linkedin.com/in/renan-manh%C3%A3es)  
-📌 **GitHub:** [github.com/djrenanzinho](https://github.com/djrenanzinho)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/renan-manhães" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:renannascimento0304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/djrenanzinho" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 ---
 
