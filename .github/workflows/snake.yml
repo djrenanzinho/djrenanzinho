@@ -19,10 +19,17 @@ jobs:
           github_user_name: djrenanzinho
           outputs: |
             dist/github-contribution-grid-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          color_snake: "#8A2BE2"  # Cor da cobra (roxo)
+          color_dots: "#FFFFFF"   # Cor dos commits (branco)
+          color_empty: "#000000"  # Fundo preto
+          color_food: "#00FF00"   # Cor da comida (verde)
+          frame_time: 0           # Remove barra de carregamento
 
       - name: Push the SVG file to the output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: dist
-
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Atualizando animação Snake"
+          git push origin output --force
