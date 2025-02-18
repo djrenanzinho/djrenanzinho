@@ -9,7 +9,7 @@
 
 ## 📊 **Minhas Estatísticas**
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djrenanzinho&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=djrenanzinho&theme=radical"/>
 </div>
