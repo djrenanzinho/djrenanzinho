@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
           github_token: ${{ secrets.GITHUB_TOKEN }}
           color_snake: "#8A2BE2"  # Cor da cobra (roxo)
-          color_dots: "#FFFFFF"   # Cor dos commits (branco)
+          color_dots: "#1E1E1E"   # Cor dos commits (branco)
           color_empty: "#000000"  # Fundo preto
           color_food: "#00FF00"   # Cor da comida (verde)
           frame_time: 0           # Remove barra de carregamento
