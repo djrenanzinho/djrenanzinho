@@ -1,10 +1,12 @@
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
-    <desc>Generated with https://github.com/Platane/snk</desc>
+  <desc>Generated with https://github.com/Platane/snk</desc>
+  <!-- Fundo cinza escuro -->
+  <rect x="-16" y="-32" width="880" height="192" fill="black"/>
     <style>
         :root {
             --cb: #1b1f230a;
             --cs: purple;
-            --ce: #ebedf0;
+            --ce: #1E1E1E; <!-- Commit -->
             --c0: #ebedf0;
             --c1: #9be9a8;
             --c2: #40c463;
