@@ -17,6 +17,11 @@
 
 ---
 
+## 📊 **Minhas Contribuições**
+![Snake animation](https://github.com/djrenanzinho/djrenanzinho/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 💻 **Tecnologias & Ferramentas**
 ### **Linguagens de Programação**  
 <div align="center">
