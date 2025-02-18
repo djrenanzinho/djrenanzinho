@@ -11,6 +11,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djrenanzinho&show_icons=true&theme=radical&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=djrenanzinho&theme=radical"/>
 </div>
 
@@ -22,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50px"/>
 </div>
 
 ---
