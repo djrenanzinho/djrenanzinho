@@ -35,7 +35,7 @@
 ## 🚀 **Sobre mim**
 💡 Sempre em busca de novos desafios, atuo com **análise de dados, automação de processos e inteligência artificial**.  
 📊 Tenho experiência com **Excel Avançado, VBA, Power BI e Python** para modelagem e visualização de dados.  
-📩 **Quer trocar uma ideia?** Me chama no LinkedIn!  
+📩 **Quer conversar?** Me chama no LinkedIn!  
 
 ---
 
